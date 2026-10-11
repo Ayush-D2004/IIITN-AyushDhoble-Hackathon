@@ -3,8 +3,9 @@
 - **Candidate Name:** Ayush Dhoble
 - **College Email ID:** bt23cse204@iiitn.ac.in
 - **College / Campus:** Indian Institute of Information Technology, Nagpur
-- **Demo Video Link:** 
+- **Demo Video Link:** https://youtu.be/i1PRYccUEKI
 - **Slide Deck Link:** https://canva.link/vaznidqngfzg8b1
+- **Documentation:** https://docs.google.com/document/d/1QT-c3NDbP6gYiGeJGbMS7fXnmXhRSYwHumtx2YhpAPk/edit?usp=sharing
  
 ## 1. Project Overview / Problem Statement & Approach
 Modern financial markets move at the speed of information, but the sheer volume of unstructured data from social feeds (like Twitter) and global news networks (like GDELT) creates immense noise. Analysts and risk managers struggle to differentiate between genuine material financial events and false alarms or duplicates, leading to alert fatigue and delayed decision-making. 
